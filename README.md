@@ -18,11 +18,12 @@ Google Colab
 Install the required Python libraries:
 
 bash
-Copy code
+
 pip install boto3
 pip install mysql-connector-python
 pip install pymysql
 ☁️ AWS Setup
+
 Create two S3 buckets:
 
 my-etl-project-source (for source files)
